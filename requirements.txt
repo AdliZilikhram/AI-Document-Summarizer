@@ -1,0 +1,8 @@
+
+PyQt5
+PyMuPDF
+transformers
+sentencepiece
+scikit-learn
+reportlab
+Pillow
